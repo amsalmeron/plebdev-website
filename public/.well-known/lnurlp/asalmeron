@@ -1,0 +1,17 @@
+{
+     "status": "OK",
+     "tag": "payRequest",
+     "commentAllowed": 255,
+     "callback": "https://strike.me/asalmeron",
+     "metadata": "[[\"text/identifier\", \"asalmeron@strike.me\"], [\"text/plain\", \"Sats for Tony at Strike\"]]",
+     "minSendable": 1000,
+     "maxSendable": 11000000000,
+     "payerData": {
+         "name": {
+         "mandatory": false
+         },
+         "email": {
+         "mandatory": false
+         }
+     }
+ }
