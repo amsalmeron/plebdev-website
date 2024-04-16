@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
   import { createClient } from '@supabase/supabase-js';
   import { onMount, onDestroy } from 'svelte';
   import { ClipboardListSolid } from 'svelte-awesome-icons';
@@ -318,4 +318,4 @@ form {
     display: block;
     text-align: center;
   }
-</style>
+</style> -->

@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
   import SignUpFormIndiv from './SignUpFormIndiv.svelte';
   import SignUpFormCorp from './SignUpFormCorp.svelte';
   import { WrenchSolid, BriefcaseSolid, PersonSolid } from 'svelte-awesome-icons';
@@ -177,4 +177,4 @@
       max-width: 80%;
     }
   }
-</style>
+</style> -->

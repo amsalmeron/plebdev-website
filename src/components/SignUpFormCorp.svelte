@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
   import { createClient } from '@supabase/supabase-js';
   import { onMount, onDestroy } from 'svelte';
   import { ClipboardListSolid } from 'svelte-awesome-icons';
@@ -322,4 +322,4 @@
     color: #10182b;
     background-color: #fff;
   }
-</style>
+</style> -->
